@@ -1,0 +1,56 @@
+body{
+    background-color: mediumorchid;
+}
+
+span{
+    color: blues;
+}
+p{
+    background-color: #8fed8f50;
+    
+}
+p:first-of-type{
+    letter-spacing: 5px;
+}
+p:hover{
+    word-spacing: 20px;
+}
+#parrafo2{
+    text-align: justify;
+}
+.miclase{
+    text-decoration: line-through underline;
+    text-transform: uppercase ;
+}
+p{
+    text-indent: calc(10% + 10px);
+    text-shadow: 2px 2px 5px #ff0000;
+}
+p :last-of-type{
+    line-height: normal;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-variant: small-caps;
+}
+div>p{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
